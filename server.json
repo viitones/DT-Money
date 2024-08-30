@@ -71,6 +71,22 @@
       "type": "outcome",
       "createdAt": "2024-08-28T02:38:47.477Z",
       "id": 9
+    },
+    {
+      "description": "Processador",
+      "price": 1200,
+      "category": "Peças",
+      "type": "outcome",
+      "createdAt": "2024-08-28T03:00:02.037Z",
+      "id": 10
+    },
+    {
+      "description": "Processador",
+      "price": 1200,
+      "category": "Peças",
+      "type": "income",
+      "createdAt": "2024-08-30T01:24:57.972Z",
+      "id": 11
     }
   ]
 }
